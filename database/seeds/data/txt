@@ -1,0 +1,215 @@
+http://miff.com.au/api/program/view.json?sid=the-100-years-show
+http://miff.com.au/api/program/view.json?sid=7378
+
+{
+    "SessionID": "7378",
+    "ProducerID": "",
+    "SessionCode": "4531",
+    "VenueID": "7318",
+    "SessionName": "DOCUMENTARY SHORTS 2",
+    "SessionShortName": "DOCUMENTARY SHORTS 2",
+    "SessionSubTitle": "",
+    "SessionDesc": "<p>A program of thematically and stylistically diverse short documentaries from around the globe and closer to home.</p>",
+    "ExtendSessionDesc": "<p>A program of thematically and stylistically diverse short documentaries from around the globe and closer to home.</p>",
+    "SessionKeywords": "",
+    "SessionDateTime": "2015-08-09 11:00:00",
+    "Runtime": "108",
+    "SessionImage": "142526_21630_3_Nowhere_Line.jpg",
+    "SessionAccessibility": "1, 6",
+    "ShowOnCartView": "False",
+    "ExternalTicketingProvider": "",
+    "ExternalTicketingURL": "",
+    "ExternalTicketingPhone": "",
+    "SessionStatus": "0",
+    "SponsorID": "0",
+    "ParentSessionID": "0",
+    "ChildSessionSortOrder": "0",
+    "RelatedSessionID": "7374,7375,7377",
+    "sessionVideoWeb": "",
+    "VenueName": "ACMI 2",
+    "Category": "Package Short",
+    "Classification": "Unclassified 18+",
+    "Country": "",
+    "CreditBlock": "",
+    "Date": "2015-09-02 17:28:30",
+    "Director": "",
+    "Language": "",
+    "Title": "",
+    "OriginalTitle": "",
+    "vimeo": "",
+    "Tags": "Documentary,Guest in Attendance",
+    "Extended Notes": "",
+    "sortname": "DOCUMENTARY SHORTS 2",
+    "guest_in_attendance": "",
+    "screened_at_cannes": "",
+    "year": "",
+    "Award winning": "",
+    "slug": "documentary-shorts-2",
+    "Type": "Shorts Package",
+    "sessions": [
+        {
+            "SessionID": "7378",
+            "SessionCode": "4531",
+            "VenueName": "ACMI 2",
+            "SessionDateTime": "2015-08-09 11:00:00",
+            "SessionAccessIcons": [
+                1,
+                6
+            ],
+            "TicketSessionID": "7378",
+            "guest_in_attendance": "",
+            "ticketstatus": "",
+            "SessionStatus": "",
+            "SessionFilms": [
+                {
+                    "SessionID": "7378",
+                    "SessionCode": "4531",
+                    "slug": "documentary-shorts-2",
+                    "SessionName": "DOCUMENTARY SHORTS 2",
+                    "SessionStatus": "0",
+                    "Runtime": "108",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7631",
+                    "SessionCode": "4531",
+                    "slug": "nowhere-line-voices-from-manus-island",
+                    "SessionName": "Nowhere Line: Voices from Manus Island",
+                    "SessionStatus": "0",
+                    "Runtime": "16",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7632",
+                    "SessionCode": "4531",
+                    "slug": "3-postcards",
+                    "SessionName": "3 Postcards",
+                    "SessionStatus": "0",
+                    "Runtime": "5",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7630",
+                    "SessionCode": "4531",
+                    "slug": "lets-dance-bowie-down-under",
+                    "SessionName": "Let's Dance: Bowie Down Under",
+                    "SessionStatus": "0",
+                    "Runtime": "11",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7628",
+                    "SessionCode": "4531",
+                    "slug": "the-nice-house",
+                    "SessionName": "The Nice House",
+                    "SessionStatus": "0",
+                    "Runtime": "22",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7629",
+                    "SessionCode": "4531",
+                    "slug": "the-water-and-the-wall",
+                    "SessionName": "The Water and the Wall",
+                    "SessionStatus": "0",
+                    "Runtime": "25",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7633",
+                    "SessionCode": "4531",
+                    "slug": "the-100-years-show",
+                    "SessionName": "The 100 Years Show",
+                    "SessionStatus": "0",
+                    "Runtime": "29",
+                    "guest_in_attendance": ""
+                }
+            ]
+        },
+        {
+            "SessionID": "7386",
+            "SessionCode": "7851",
+            "VenueName": "Treasury Theatre",
+            "SessionDateTime": "2015-08-15 13:30:00",
+            "SessionAccessIcons": [
+                1,
+                6
+            ],
+            "TicketSessionID": "7386",
+            "guest_in_attendance": "",
+            "ticketstatus": "",
+            "SessionStatus": "",
+            "SessionFilms": [
+                {
+                    "SessionID": "7386",
+                    "SessionCode": "7851",
+                    "slug": "documentary-shorts-2",
+                    "SessionName": "DOCUMENTARY SHORTS 2",
+                    "SessionStatus": "0",
+                    "Runtime": "108",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7637",
+                    "SessionCode": "7851",
+                    "slug": "nowhere-line-voices-from-manus-island",
+                    "SessionName": "Nowhere Line: Voices from Manus Island",
+                    "SessionStatus": "0",
+                    "Runtime": "16",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7638",
+                    "SessionCode": "7851",
+                    "slug": "3-postcards",
+                    "SessionName": "3 Postcards",
+                    "SessionStatus": "0",
+                    "Runtime": "5",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7636",
+                    "SessionCode": "7851",
+                    "slug": "lets-dance-bowie-down-under",
+                    "SessionName": "Let's Dance: Bowie Down Under",
+                    "SessionStatus": "0",
+                    "Runtime": "11",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7634",
+                    "SessionCode": "7851",
+                    "slug": "the-nice-house",
+                    "SessionName": "The Nice House",
+                    "SessionStatus": "0",
+                    "Runtime": "22",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7635",
+                    "SessionCode": "7851",
+                    "slug": "the-water-and-the-wall",
+                    "SessionName": "The Water and the Wall",
+                    "SessionStatus": "0",
+                    "Runtime": "25",
+                    "guest_in_attendance": ""
+                },
+                {
+                    "SessionID": "7639",
+                    "SessionCode": "7851",
+                    "slug": "the-100-years-show",
+                    "SessionName": "The 100 Years Show",
+                    "SessionStatus": "0",
+                    "Runtime": "29",
+                    "guest_in_attendance": ""
+                }
+            ]
+        }
+    ],
+    "TicketSessionID": "7378",
+    "SessionImageURL": "/assets/thumbscache/thumbs1170x480/811df370d45e53f97c1dadc314f3e1ec.jpg",
+    "additionalimages": [],
+    "WordCloud": "Documentary, Guest in Attendance",
+    "sponsorlogo": "",
+    "emotionMap": ""
+}
